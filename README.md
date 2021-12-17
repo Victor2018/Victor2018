@@ -6,6 +6,5 @@ Here are some ideas to get you started:
 
 # Focus on developers：
 - Gmail： victor423099@gmail.com
-- Sina Weibo
-- ![image](https://github.com/Victor2018/FunnyClips/raw/master/SrceenShot/sina_weibo.jpg)
+
 
